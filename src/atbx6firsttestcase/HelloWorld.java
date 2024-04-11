@@ -17,11 +17,13 @@ public class HelloWorld {
 		//variable is container which hold data
 		int age = 65;
 		age = 70;
-		
+		age = 80;
 		
 		
 		age = age + 1;
 		System.out.println(age);
+		
+		
 	}
 
 }
