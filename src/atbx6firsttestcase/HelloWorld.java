@@ -1,7 +1,7 @@
 package atbx6firsttestcase;
 
 //class ->Method ->Statements
-
+//class is blueprint
 
 //class
 public class HelloWorld {
