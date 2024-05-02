@@ -1,1 +1,1 @@
-*This is fist Automation test project*
+*This is first Automation test project*
